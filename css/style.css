@@ -1,0 +1,7 @@
+#rond{
+    height: 60px;
+    width: 60px;
+    background-color: red;
+    border-radius: 50%;
+    align-items: center;
+}
